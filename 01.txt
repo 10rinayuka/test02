@@ -1,4 +1,0 @@
-local project
-add
-commit
-stash 0107 in branch edit on remote!
